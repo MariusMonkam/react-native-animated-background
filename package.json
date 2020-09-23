@@ -1,0 +1,29 @@
+{
+  "name": "react-native-animated-background",
+  "version": "1.0.4",
+  "description": "Add animated background on your react-native component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "animated",
+    "background"
+  ],
+  "author": "Marius Monkam <mariusmonkam@yahoo.fr> (https://marius-monkam.herokuapp.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariusMonkam/react-native-animated-background.git"
+  },
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "dependencies": {}
+}
